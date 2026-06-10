@@ -259,6 +259,7 @@ Demo Video
 You can place your demo video link here:
 
 Demo Video: https://1drv.ms/v/c/a9e0688a1c14fa97/IQDRkb1YIoX1SoOh1qfhtuNxAc2oj3Fcs-Lhxg1m8e-HR8A?e=EErjB3
+            In case the video is inaudible, please increase or decrease the volume once, you will be able to hear the voiceover.
 
 Notes
 The reminder job checks every minute.
